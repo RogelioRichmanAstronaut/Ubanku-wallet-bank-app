@@ -1,0 +1,64 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Poppins",
+      "weights": [300, 400, 500, 600]
+    },
+    "special": {
+      "name": "Lobster",
+      "weights": [400]
+    }
+  },
+  "colors": {
+    "primary": "#00EEC9",
+    "ubanku100": "#E5FDFA",
+    "ubanku200": "#80F6E4",
+    "ubanku300": "#00EEC9",
+    "ubanku400": "#00C1A3",
+    "ubanku500": "#008F79",
+    "secondary": "#002930",
+    "secondary100": "#B2BFC1",
+    "secondary200": "#809497",
+    "secondary300": "#4C696E",
+    "secondary400": "#335459",
+    "secondary500": "#002930",
+    "empathy": "#E6C2F3",
+    "empathy100": "#FAF3FD",
+    "empathy200": "#F0DAF8",
+    "empathy300": "#E6C2F3",
+    "empathy400": "#D66DF7",
+    "empathy500": "#C52EF4",
+    "energy": "#FFEB67",
+    "energy100": "#FFFBE1",
+    "energy200": "#FFF195",
+    "energy300": "#FFEB67",
+    "energy400": "#FFDA55",
+    "energy500": "#F0BC02",
+    "neutral0": "#FFFFFF",
+    "neutral50": "#FBFBFB",
+    "neutral100": "#F7F7F9",
+    "neutral200": "#ECECEC",
+    "neutral300": "#DBDBDB",
+    "neutral400": "#B9B9B9",
+    "neutral500": "#989898",
+    "neutral600": "#656565",
+    "neutral700": "#333333",
+    "success100": "#F7FCB2",
+    "success200": "#E3F400",
+    "success300": "#C2D004",
+    "info100": "#D3F9FF",
+    "info200": "#6EEBFF",
+    "info300": "#1CBDD7",
+    "warning100": "#FF9966",
+    "warning200": "#FF5500",
+    "warning300": "#DD4A00",
+    "error100": "#F4669D",
+    "error200": "#ED005B",
+    "error300": "#C5024D"
+  },
+  "images": {
+    "general": {
+      "ubanku_logo": ""
+    }
+  }
+}
