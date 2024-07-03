@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.tsx linguist-language=React
+*.ts linguist-language=TypeScript
