@@ -79,18 +79,20 @@ const ReferralsPage = () => {
           ADF45G
         </Button>
       </HStack>
-      <ReferredCircles
-        circles={[
-          {
-            name: 'Juan',
-            image: require('../../assets/icons/referredBoyIconMd.png'),
-          },
-          {
-            name: 'Mariana',
-            image: require('../../assets/icons/referredGirlIconMd.png'),
-          },
-        ]}
-      />
+      <HStack marginLeft={'12%'}>
+        <ReferredCircles
+          circles={[
+            {
+              name: 'Juan',
+              image: require('../../assets/icons/referredBoyIconMd.png'),
+            },
+            {
+              name: 'Mariana',
+              image: require('../../assets/icons/referredGirlIconMd.png'),
+            },
+          ]}
+        />
+      </HStack>
 
       <VStack space={5} mt={270}>
         {/* <VStack space={5} mt={5}> */}

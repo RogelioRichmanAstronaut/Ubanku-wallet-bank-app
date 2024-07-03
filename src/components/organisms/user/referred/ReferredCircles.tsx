@@ -48,7 +48,7 @@ const ReferredCircles: React.FC<CirclesProps> = ({circles = []}) => {
   const angle = (2 * Math.PI) / 7;
   return (
     <View style={{}}>
-      <View style={{position: 'absolute', top: 100, left: 100}}>
+      <View style={{position: 'absolute', top: 90, left: 90}}>
         <Circle
           size="medium"
           image={require('../../../../assets/icons/userIconMd.png')}
