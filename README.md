@@ -1,3 +1,4 @@
+Demo code open source with the authorization of Andrés F. Méndez, CEO of Ubanku Fintech.
 # UbankuApp
 
 UbankuApp is a robust and scalable mobile application designed to provide a seamless banking experience. This demo showcases the frontend of a wallet bank system built using TypeScript and React Native. The complete system is a fullstack solution, including a backend built with NestJS, and is suitable for banks or enterprises. 
